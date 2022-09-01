@@ -1,0 +1,9 @@
+sgsbd_sgs_producto.sql
+sgsbd_sgs_parcela.sql
+sgsbd_sgs_temporada.sql
+sgsbd_sgs_parcela_has_sgs_producto.sql
+sgsbd_sgs_demanda.sql
+sgsbd_sgs_distribucion.sql
+sgsbd_sgs_perfil.sql
+sgsbd_sgs_usuario.sql
+sgsbd_routines.sql
